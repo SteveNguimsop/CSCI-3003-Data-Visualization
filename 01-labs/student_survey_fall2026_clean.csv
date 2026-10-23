@@ -1,0 +1,13 @@
+age_years,gender_identity,intended_major,introversion_extroversion,preferred_study_setting,favorite_ice_cream_flavor,completed_statistics,statistics_completion_year,statistics_experience,graph_confidence,programming_experience,programming_languages,vscode_experience,troubleshooting_confidence
+21,Nonbinary,Psychology ,4,Working alone in a quiet place,chocolate ice cream and its as much chocolate as possible ,Yes,1,"I generally enjoyed it, although some topics were challenging.",5,Substantial: several courses or projects,Python;R;,Never,3
+20,Woman,Computer Science,4,Working alone with background sound,Mint Chocolate Chip,Yes,1,"I generally enjoyed it, although some topics were challenging.",4,Some: one course or a small project,Python;,Once or twice,1
+20,Man,Chemistry,2,Working alone with background sound,Chocolate,Yes,2025,"I generally enjoyed it, although some topics were challenging.",4,Some: one course or a small project,Python;,Never,2
+20,Woman,Computer science ,3,No consistent preference,Cookies and cream ,Yes,2025,My experience was mixed.,3,Some: one course or a small project,Python;,Once or twice,2
+21,Woman,Computer Science,1,Working alone with background sound,Chocolate,No,2026,I have not taken a statistics course.,3,Substantial: several courses or projects,Python;JavaScript;Java;,Regularly,3
+19,Woman,Comp Sci,2,Working alone in a quiet place,Vanilla,No,2026,I have not taken a statistics course.,3,Some: one course or a small project,JavaScript;,Never,3
+24,Nonbinary,Comp Sci,2,No consistent preference,Birthday Cake,Not sure,2018,My experience was mixed.,5,Substantial: several courses or projects,Python;C++;JavaScript;C#;,Regularly,4
+20,Woman,Computer Science,3,Working alone with background sound,Cherry Vanilla,Yes,2025,"I generally enjoyed it, although some topics were challenging.",4,A little: a few exercises or tutorials,Scratch;,Never,3
+25,Man,"Chemistry, Environmental Science, Biology",3,No consistent preference,Mint Chocolate Chip,Yes,2021,I enjoyed it and felt confident.,4,Substantial: several courses or projects,Python;C++;JavaScript;Java;,Once or twice,4
+20,Man,Computer Science,1,Working with one partner,Chocolate,No,0,My experience was mixed.,1,Some: one course or a small project,JavaScript;,Never,1
+24,Nonbinary,Business Administration,3,Working alone with background sound,Vanilla,Yes,2026,I struggled significantly or did not complete the course.,2,A little: a few exercises or tutorials,R;,Never,1
+21,Man,Computer Science,3,Working alone with background sound,Strawberry,Yes,2025,"I generally enjoyed it, although some topics were challenging.",3,Substantial: several courses or projects,Python;C++;SQL;Java;,Regularly,3

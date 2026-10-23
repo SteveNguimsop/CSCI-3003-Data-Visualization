@@ -1,0 +1,399 @@
+car_name,model_year,origin_region,cylinder_count,mpg,horsepower,vehicle_weight_lb,engine_displacement_cu_in,acceleration_seconds
+chevrolet chevelle malibu,1970,United States,8,18.0,130.0,3504.0,307.0,12.0
+buick skylark 320,1970,United States,8,15.0,165.0,3693.0,350.0,11.5
+plymouth satellite,1970,United States,8,18.0,150.0,3436.0,318.0,11.0
+amc rebel sst,1970,United States,8,16.0,150.0,3433.0,304.0,12.0
+ford torino,1970,United States,8,17.0,140.0,3449.0,302.0,10.5
+ford galaxie 500,1970,United States,8,15.0,198.0,4341.0,429.0,10.0
+chevrolet impala,1970,United States,8,14.0,220.0,4354.0,454.0,9.0
+plymouth fury iii,1970,United States,8,14.0,215.0,4312.0,440.0,8.5
+pontiac catalina,1970,United States,8,14.0,225.0,4425.0,455.0,10.0
+amc ambassador dpl,1970,United States,8,15.0,190.0,3850.0,390.0,8.5
+dodge challenger se,1970,United States,8,15.0,170.0,3563.0,383.0,10.0
+plymouth 'cuda 340,1970,United States,8,14.0,160.0,3609.0,340.0,8.0
+chevrolet monte carlo,1970,United States,8,15.0,150.0,3761.0,400.0,9.5
+buick estate wagon (sw),1970,United States,8,14.0,225.0,3086.0,455.0,10.0
+toyota corona mark ii,1970,Japan,4,24.0,95.0,2372.0,113.0,15.0
+plymouth duster,1970,United States,6,22.0,95.0,2833.0,198.0,15.5
+amc hornet,1970,United States,6,18.0,97.0,2774.0,199.0,15.5
+ford maverick,1970,United States,6,21.0,85.0,2587.0,200.0,16.0
+datsun pl510,1970,Japan,4,27.0,88.0,2130.0,97.0,14.5
+volkswagen 1131 deluxe sedan,1970,Europe,4,26.0,46.0,1835.0,97.0,20.5
+peugeot 504,1970,Europe,4,25.0,87.0,2672.0,110.0,17.5
+audi 100 ls,1970,Europe,4,24.0,90.0,2430.0,107.0,14.5
+saab 99e,1970,Europe,4,25.0,95.0,2375.0,104.0,17.5
+bmw 2002,1970,Europe,4,26.0,113.0,2234.0,121.0,12.5
+amc gremlin,1970,United States,6,21.0,90.0,2648.0,199.0,15.0
+ford f250,1970,United States,8,10.0,215.0,4615.0,360.0,14.0
+chevy c20,1970,United States,8,10.0,200.0,4376.0,307.0,15.0
+dodge d200,1970,United States,8,11.0,210.0,4382.0,318.0,13.5
+hi 1200d,1970,United States,8,9.0,193.0,4732.0,304.0,18.5
+datsun pl510,1971,Japan,4,27.0,88.0,2130.0,97.0,14.5
+chevrolet vega 2300,1971,United States,4,28.0,90.0,2264.0,140.0,15.5
+toyota corona,1971,Japan,4,25.0,95.0,2228.0,113.0,14.0
+ford pinto,1971,United States,4,25.0,,2046.0,98.0,19.0
+amc gremlin,1971,United States,6,19.0,100.0,2634.0,232.0,13.0
+plymouth satellite custom,1971,United States,6,16.0,105.0,3439.0,225.0,15.5
+chevrolet chevelle malibu,1971,United States,6,17.0,100.0,3329.0,250.0,15.5
+ford torino 500,1971,United States,6,19.0,88.0,3302.0,250.0,15.5
+amc matador,1971,United States,6,18.0,100.0,3288.0,232.0,15.5
+chevrolet impala,1971,United States,8,14.0,165.0,4209.0,350.0,12.0
+pontiac catalina brougham,1971,United States,8,14.0,175.0,4464.0,400.0,11.5
+ford galaxie 500,1971,United States,8,14.0,153.0,4154.0,351.0,13.5
+plymouth fury iii,1971,United States,8,14.0,150.0,4096.0,318.0,13.0
+dodge monaco (sw),1971,United States,8,12.0,180.0,4955.0,383.0,11.5
+ford country squire (sw),1971,United States,8,13.0,170.0,4746.0,400.0,12.0
+pontiac safari (sw),1971,United States,8,13.0,175.0,5140.0,400.0,12.0
+amc hornet sportabout (sw),1971,United States,6,18.0,110.0,2962.0,258.0,13.5
+chevrolet vega (sw),1971,United States,4,22.0,72.0,2408.0,140.0,19.0
+pontiac firebird,1971,United States,6,19.0,100.0,3282.0,250.0,15.0
+ford mustang,1971,United States,6,18.0,88.0,3139.0,250.0,14.5
+mercury capri 2000,1971,United States,4,23.0,86.0,2220.0,122.0,14.0
+opel 1900,1971,Europe,4,28.0,90.0,2123.0,116.0,14.0
+peugeot 304,1971,Europe,4,30.0,70.0,2074.0,79.0,19.5
+fiat 124b,1971,Europe,4,30.0,76.0,2065.0,88.0,14.5
+toyota corolla 1200,1971,Japan,4,31.0,65.0,1773.0,71.0,19.0
+datsun 1200,1971,Japan,4,35.0,69.0,1613.0,72.0,18.0
+volkswagen model 111,1971,Europe,4,27.0,60.0,1834.0,97.0,19.0
+plymouth cricket,1971,United States,4,26.0,70.0,1955.0,91.0,20.5
+toyota corona hardtop,1972,Japan,4,24.0,95.0,2278.0,113.0,15.5
+dodge colt hardtop,1972,United States,4,25.0,80.0,2126.0,97.5,17.0
+volkswagen type 3,1972,Europe,4,23.0,54.0,2254.0,97.0,23.5
+chevrolet vega,1972,United States,4,20.0,90.0,2408.0,140.0,19.5
+ford pinto runabout,1972,United States,4,21.0,86.0,2226.0,122.0,16.5
+chevrolet impala,1972,United States,8,13.0,165.0,4274.0,350.0,12.0
+pontiac catalina,1972,United States,8,14.0,175.0,4385.0,400.0,12.0
+plymouth fury iii,1972,United States,8,15.0,150.0,4135.0,318.0,13.5
+ford galaxie 500,1972,United States,8,14.0,153.0,4129.0,351.0,13.0
+amc ambassador sst,1972,United States,8,17.0,150.0,3672.0,304.0,11.5
+mercury marquis,1972,United States,8,11.0,208.0,4633.0,429.0,11.0
+buick lesabre custom,1972,United States,8,13.0,155.0,4502.0,350.0,13.5
+oldsmobile delta 88 royale,1972,United States,8,12.0,160.0,4456.0,350.0,13.5
+chrysler newport royal,1972,United States,8,13.0,190.0,4422.0,400.0,12.5
+mazda rx2 coupe,1972,Japan,3,19.0,97.0,2330.0,70.0,13.5
+amc matador (sw),1972,United States,8,15.0,150.0,3892.0,304.0,12.5
+chevrolet chevelle concours (sw),1972,United States,8,13.0,130.0,4098.0,307.0,14.0
+ford gran torino (sw),1972,United States,8,13.0,140.0,4294.0,302.0,16.0
+plymouth satellite custom (sw),1972,United States,8,14.0,150.0,4077.0,318.0,14.0
+volvo 145e (sw),1972,Europe,4,18.0,112.0,2933.0,121.0,14.5
+volkswagen 411 (sw),1972,Europe,4,22.0,76.0,2511.0,121.0,18.0
+peugeot 504 (sw),1972,Europe,4,21.0,87.0,2979.0,120.0,19.5
+renault 12 (sw),1972,Europe,4,26.0,69.0,2189.0,96.0,18.0
+ford pinto (sw),1972,United States,4,22.0,86.0,2395.0,122.0,16.0
+datsun 510 (sw),1972,Japan,4,28.0,92.0,2288.0,97.0,17.0
+toyouta corona mark ii (sw),1972,Japan,4,23.0,97.0,2506.0,120.0,14.5
+dodge colt (sw),1972,United States,4,28.0,80.0,2164.0,98.0,15.0
+toyota corolla 1600 (sw),1972,Japan,4,27.0,88.0,2100.0,97.0,16.5
+buick century 350,1973,United States,8,13.0,175.0,4100.0,350.0,13.0
+amc matador,1973,United States,8,14.0,150.0,3672.0,304.0,11.5
+chevrolet malibu,1973,United States,8,13.0,145.0,3988.0,350.0,13.0
+ford gran torino,1973,United States,8,14.0,137.0,4042.0,302.0,14.5
+dodge coronet custom,1973,United States,8,15.0,150.0,3777.0,318.0,12.5
+mercury marquis brougham,1973,United States,8,12.0,198.0,4952.0,429.0,11.5
+chevrolet caprice classic,1973,United States,8,13.0,150.0,4464.0,400.0,12.0
+ford ltd,1973,United States,8,13.0,158.0,4363.0,351.0,13.0
+plymouth fury gran sedan,1973,United States,8,14.0,150.0,4237.0,318.0,14.5
+chrysler new yorker brougham,1973,United States,8,13.0,215.0,4735.0,440.0,11.0
+buick electra 225 custom,1973,United States,8,12.0,225.0,4951.0,455.0,11.0
+amc ambassador brougham,1973,United States,8,13.0,175.0,3821.0,360.0,11.0
+plymouth valiant,1973,United States,6,18.0,105.0,3121.0,225.0,16.5
+chevrolet nova custom,1973,United States,6,16.0,100.0,3278.0,250.0,18.0
+amc hornet,1973,United States,6,18.0,100.0,2945.0,232.0,16.0
+ford maverick,1973,United States,6,18.0,88.0,3021.0,250.0,16.5
+plymouth duster,1973,United States,6,23.0,95.0,2904.0,198.0,16.0
+volkswagen super beetle,1973,Europe,4,26.0,46.0,1950.0,97.0,21.0
+chevrolet impala,1973,United States,8,11.0,150.0,4997.0,400.0,14.0
+ford country,1973,United States,8,12.0,167.0,4906.0,400.0,12.5
+plymouth custom suburb,1973,United States,8,13.0,170.0,4654.0,360.0,13.0
+oldsmobile vista cruiser,1973,United States,8,12.0,180.0,4499.0,350.0,12.5
+amc gremlin,1973,United States,6,18.0,100.0,2789.0,232.0,15.0
+toyota carina,1973,Japan,4,20.0,88.0,2279.0,97.0,19.0
+chevrolet vega,1973,United States,4,21.0,72.0,2401.0,140.0,19.5
+datsun 610,1973,Japan,4,22.0,94.0,2379.0,108.0,16.5
+maxda rx3,1973,Japan,3,18.0,90.0,2124.0,70.0,13.5
+ford pinto,1973,United States,4,19.0,85.0,2310.0,122.0,18.5
+mercury capri v6,1973,United States,6,21.0,107.0,2472.0,155.0,14.0
+fiat 124 sport coupe,1973,Europe,4,26.0,90.0,2265.0,98.0,15.5
+chevrolet monte carlo s,1973,United States,8,15.0,145.0,4082.0,350.0,13.0
+pontiac grand prix,1973,United States,8,16.0,230.0,4278.0,400.0,9.5
+fiat 128,1973,Europe,4,29.0,49.0,1867.0,68.0,19.5
+opel manta,1973,Europe,4,24.0,75.0,2158.0,116.0,15.5
+audi 100ls,1973,Europe,4,20.0,91.0,2582.0,114.0,14.0
+volvo 144ea,1973,Europe,4,19.0,112.0,2868.0,121.0,15.5
+dodge dart custom,1973,United States,8,15.0,150.0,3399.0,318.0,11.0
+saab 99le,1973,Europe,4,24.0,110.0,2660.0,121.0,14.0
+toyota mark ii,1973,Japan,6,20.0,122.0,2807.0,156.0,13.5
+oldsmobile omega,1973,United States,8,11.0,180.0,3664.0,350.0,11.0
+plymouth duster,1974,United States,6,20.0,95.0,3102.0,198.0,16.5
+ford maverick,1974,United States,6,21.0,,2875.0,200.0,17.0
+amc hornet,1974,United States,6,19.0,100.0,2901.0,232.0,16.0
+chevrolet nova,1974,United States,6,15.0,100.0,3336.0,250.0,17.0
+datsun b210,1974,Japan,4,31.0,67.0,1950.0,79.0,19.0
+ford pinto,1974,United States,4,26.0,80.0,2451.0,122.0,16.5
+toyota corolla 1200,1974,Japan,4,32.0,65.0,1836.0,71.0,21.0
+chevrolet vega,1974,United States,4,25.0,75.0,2542.0,140.0,17.0
+chevrolet chevelle malibu classic,1974,United States,6,16.0,100.0,3781.0,250.0,17.0
+amc matador,1974,United States,6,16.0,110.0,3632.0,258.0,18.0
+plymouth satellite sebring,1974,United States,6,18.0,105.0,3613.0,225.0,16.5
+ford gran torino,1974,United States,8,16.0,140.0,4141.0,302.0,14.0
+buick century luxus (sw),1974,United States,8,13.0,150.0,4699.0,350.0,14.5
+dodge coronet custom (sw),1974,United States,8,14.0,150.0,4457.0,318.0,13.5
+ford gran torino (sw),1974,United States,8,14.0,140.0,4638.0,302.0,16.0
+amc matador (sw),1974,United States,8,14.0,150.0,4257.0,304.0,15.5
+audi fox,1974,Europe,4,29.0,83.0,2219.0,98.0,16.5
+volkswagen dasher,1974,Europe,4,26.0,67.0,1963.0,79.0,15.5
+opel manta,1974,Europe,4,26.0,78.0,2300.0,97.0,14.5
+toyota corona,1974,Japan,4,31.0,52.0,1649.0,76.0,16.5
+datsun 710,1974,Japan,4,32.0,61.0,2003.0,83.0,19.0
+dodge colt,1974,United States,4,28.0,75.0,2125.0,90.0,14.5
+fiat 128,1974,Europe,4,24.0,75.0,2108.0,90.0,15.5
+fiat 124 tc,1974,Europe,4,26.0,75.0,2246.0,116.0,14.0
+honda civic,1974,Japan,4,24.0,97.0,2489.0,120.0,15.0
+subaru,1974,Japan,4,26.0,93.0,2391.0,108.0,15.5
+fiat x1.9,1974,Europe,4,31.0,67.0,2000.0,79.0,16.0
+plymouth valiant custom,1975,United States,6,19.0,95.0,3264.0,225.0,16.0
+chevrolet nova,1975,United States,6,18.0,105.0,3459.0,250.0,16.0
+mercury monarch,1975,United States,6,15.0,72.0,3432.0,250.0,21.0
+ford maverick,1975,United States,6,15.0,72.0,3158.0,250.0,19.5
+pontiac catalina,1975,United States,8,16.0,170.0,4668.0,400.0,11.5
+chevrolet bel air,1975,United States,8,15.0,145.0,4440.0,350.0,14.0
+plymouth grand fury,1975,United States,8,16.0,150.0,4498.0,318.0,14.5
+ford ltd,1975,United States,8,14.0,148.0,4657.0,351.0,13.5
+buick century,1975,United States,6,17.0,110.0,3907.0,231.0,21.0
+chevroelt chevelle malibu,1975,United States,6,16.0,105.0,3897.0,250.0,18.5
+amc matador,1975,United States,6,15.0,110.0,3730.0,258.0,19.0
+plymouth fury,1975,United States,6,18.0,95.0,3785.0,225.0,19.0
+buick skyhawk,1975,United States,6,21.0,110.0,3039.0,231.0,15.0
+chevrolet monza 2+2,1975,United States,8,20.0,110.0,3221.0,262.0,13.5
+ford mustang ii,1975,United States,8,13.0,129.0,3169.0,302.0,12.0
+toyota corolla,1975,Japan,4,29.0,75.0,2171.0,97.0,16.0
+ford pinto,1975,United States,4,23.0,83.0,2639.0,140.0,17.0
+amc gremlin,1975,United States,6,20.0,100.0,2914.0,232.0,16.0
+pontiac astro,1975,United States,4,23.0,78.0,2592.0,140.0,18.5
+toyota corona,1975,Japan,4,24.0,96.0,2702.0,134.0,13.5
+volkswagen dasher,1975,Europe,4,25.0,71.0,2223.0,90.0,16.5
+datsun 710,1975,Japan,4,24.0,97.0,2545.0,119.0,17.0
+ford pinto,1975,United States,6,18.0,97.0,2984.0,171.0,14.5
+volkswagen rabbit,1975,Europe,4,29.0,70.0,1937.0,90.0,14.0
+amc pacer,1975,United States,6,19.0,90.0,3211.0,232.0,17.0
+audi 100ls,1975,Europe,4,23.0,95.0,2694.0,115.0,15.0
+peugeot 504,1975,Europe,4,23.0,88.0,2957.0,120.0,17.0
+volvo 244dl,1975,Europe,4,22.0,98.0,2945.0,121.0,14.5
+saab 99le,1975,Europe,4,25.0,115.0,2671.0,121.0,13.5
+honda civic cvcc,1975,Japan,4,33.0,53.0,1795.0,91.0,17.5
+fiat 131,1976,Europe,4,28.0,86.0,2464.0,107.0,15.5
+opel 1900,1976,Europe,4,25.0,81.0,2220.0,116.0,16.9
+capri ii,1976,United States,4,25.0,92.0,2572.0,140.0,14.9
+dodge colt,1976,United States,4,26.0,79.0,2255.0,98.0,17.7
+renault 12tl,1976,Europe,4,27.0,83.0,2202.0,101.0,15.3
+chevrolet chevelle malibu classic,1976,United States,8,17.5,140.0,4215.0,305.0,13.0
+dodge coronet brougham,1976,United States,8,16.0,150.0,4190.0,318.0,13.0
+amc matador,1976,United States,8,15.5,120.0,3962.0,304.0,13.9
+ford gran torino,1976,United States,8,14.5,152.0,4215.0,351.0,12.8
+plymouth valiant,1976,United States,6,22.0,100.0,3233.0,225.0,15.4
+chevrolet nova,1976,United States,6,22.0,105.0,3353.0,250.0,14.5
+ford maverick,1976,United States,6,24.0,81.0,3012.0,200.0,17.6
+amc hornet,1976,United States,6,22.5,90.0,3085.0,232.0,17.6
+chevrolet chevette,1976,United States,4,29.0,52.0,2035.0,85.0,22.2
+chevrolet woody,1976,United States,4,24.5,60.0,2164.0,98.0,22.1
+vw rabbit,1976,Europe,4,29.0,70.0,1937.0,90.0,14.2
+honda civic,1976,Japan,4,33.0,53.0,1795.0,91.0,17.4
+dodge aspen se,1976,United States,6,20.0,100.0,3651.0,225.0,17.7
+ford granada ghia,1976,United States,6,18.0,78.0,3574.0,250.0,21.0
+pontiac ventura sj,1976,United States,6,18.5,110.0,3645.0,250.0,16.2
+amc pacer d/l,1976,United States,6,17.5,95.0,3193.0,258.0,17.8
+volkswagen rabbit,1976,Europe,4,29.5,71.0,1825.0,97.0,12.2
+datsun b-210,1976,Japan,4,32.0,70.0,1990.0,85.0,17.0
+toyota corolla,1976,Japan,4,28.0,75.0,2155.0,97.0,16.4
+ford pinto,1976,United States,4,26.5,72.0,2565.0,140.0,13.6
+volvo 245,1976,Europe,4,20.0,102.0,3150.0,130.0,15.7
+plymouth volare premier v8,1976,United States,8,13.0,150.0,3940.0,318.0,13.2
+peugeot 504,1976,Europe,4,19.0,88.0,3270.0,120.0,21.9
+toyota mark ii,1976,Japan,6,19.0,108.0,2930.0,156.0,15.5
+mercedes-benz 280s,1976,Europe,6,16.5,120.0,3820.0,168.0,16.7
+cadillac seville,1976,United States,8,16.5,180.0,4380.0,350.0,12.1
+chevy c10,1976,United States,8,13.0,145.0,4055.0,350.0,12.0
+ford f108,1976,United States,8,13.0,130.0,3870.0,302.0,15.0
+dodge d100,1976,United States,8,13.0,150.0,3755.0,318.0,14.0
+honda accord cvcc,1977,Japan,4,31.5,68.0,2045.0,98.0,18.5
+buick opel isuzu deluxe,1977,United States,4,30.0,80.0,2155.0,111.0,14.8
+renault 5 gtl,1977,Europe,4,36.0,58.0,1825.0,79.0,18.6
+plymouth arrow gs,1977,United States,4,25.5,96.0,2300.0,122.0,15.5
+datsun f-10 hatchback,1977,Japan,4,33.5,70.0,1945.0,85.0,16.8
+chevrolet caprice classic,1977,United States,8,17.5,145.0,3880.0,305.0,12.5
+oldsmobile cutlass supreme,1977,United States,8,17.0,110.0,4060.0,260.0,19.0
+dodge monaco brougham,1977,United States,8,15.5,145.0,4140.0,318.0,13.7
+mercury cougar brougham,1977,United States,8,15.0,130.0,4295.0,302.0,14.9
+chevrolet concours,1977,United States,6,17.5,110.0,3520.0,250.0,16.4
+buick skylark,1977,United States,6,20.5,105.0,3425.0,231.0,16.9
+plymouth volare custom,1977,United States,6,19.0,100.0,3630.0,225.0,17.7
+ford granada,1977,United States,6,18.5,98.0,3525.0,250.0,19.0
+pontiac grand prix lj,1977,United States,8,16.0,180.0,4220.0,400.0,11.1
+chevrolet monte carlo landau,1977,United States,8,15.5,170.0,4165.0,350.0,11.4
+chrysler cordoba,1977,United States,8,15.5,190.0,4325.0,400.0,12.2
+ford thunderbird,1977,United States,8,16.0,149.0,4335.0,351.0,14.5
+volkswagen rabbit custom,1977,Europe,4,29.0,78.0,1940.0,97.0,14.5
+pontiac sunbird coupe,1977,United States,4,24.5,88.0,2740.0,151.0,16.0
+toyota corolla liftback,1977,Japan,4,26.0,75.0,2265.0,97.0,18.2
+ford mustang ii 2+2,1977,United States,4,25.5,89.0,2755.0,140.0,15.8
+chevrolet chevette,1977,United States,4,30.5,63.0,2051.0,98.0,17.0
+dodge colt m/m,1977,United States,4,33.5,83.0,2075.0,98.0,15.9
+subaru dl,1977,Japan,4,30.0,67.0,1985.0,97.0,16.4
+volkswagen dasher,1977,Europe,4,30.5,78.0,2190.0,97.0,14.1
+datsun 810,1977,Japan,6,22.0,97.0,2815.0,146.0,14.5
+bmw 320i,1977,Europe,4,21.5,110.0,2600.0,121.0,12.8
+mazda rx-4,1977,Japan,3,21.5,110.0,2720.0,80.0,13.5
+volkswagen rabbit custom diesel,1978,Europe,4,43.1,48.0,1985.0,90.0,21.5
+ford fiesta,1978,United States,4,36.1,66.0,1800.0,98.0,14.4
+mazda glc deluxe,1978,Japan,4,32.8,52.0,1985.0,78.0,19.4
+datsun b210 gx,1978,Japan,4,39.4,70.0,2070.0,85.0,18.6
+honda civic cvcc,1978,Japan,4,36.1,60.0,1800.0,91.0,16.4
+oldsmobile cutlass salon brougham,1978,United States,8,19.9,110.0,3365.0,260.0,15.5
+dodge diplomat,1978,United States,8,19.4,140.0,3735.0,318.0,13.2
+mercury monarch ghia,1978,United States,8,20.2,139.0,3570.0,302.0,12.8
+pontiac phoenix lj,1978,United States,6,19.2,105.0,3535.0,231.0,19.2
+chevrolet malibu,1978,United States,6,20.5,95.0,3155.0,200.0,18.2
+ford fairmont (auto),1978,United States,6,20.2,85.0,2965.0,200.0,15.8
+ford fairmont (man),1978,United States,4,25.1,88.0,2720.0,140.0,15.4
+plymouth volare,1978,United States,6,20.5,100.0,3430.0,225.0,17.2
+amc concord,1978,United States,6,19.4,90.0,3210.0,232.0,17.2
+buick century special,1978,United States,6,20.6,105.0,3380.0,231.0,15.8
+mercury zephyr,1978,United States,6,20.8,85.0,3070.0,200.0,16.7
+dodge aspen,1978,United States,6,18.6,110.0,3620.0,225.0,18.7
+amc concord d/l,1978,United States,6,18.1,120.0,3410.0,258.0,15.1
+chevrolet monte carlo landau,1978,United States,8,19.2,145.0,3425.0,305.0,13.2
+buick regal sport coupe (turbo),1978,United States,6,17.7,165.0,3445.0,231.0,13.4
+ford futura,1978,United States,8,18.1,139.0,3205.0,302.0,11.2
+dodge magnum xe,1978,United States,8,17.5,140.0,4080.0,318.0,13.7
+chevrolet chevette,1978,United States,4,30.0,68.0,2155.0,98.0,16.5
+toyota corona,1978,Japan,4,27.5,95.0,2560.0,134.0,14.2
+datsun 510,1978,Japan,4,27.2,97.0,2300.0,119.0,14.7
+dodge omni,1978,United States,4,30.9,75.0,2230.0,105.0,14.5
+toyota celica gt liftback,1978,Japan,4,21.1,95.0,2515.0,134.0,14.8
+plymouth sapporo,1978,United States,4,23.2,105.0,2745.0,156.0,16.7
+oldsmobile starfire sx,1978,United States,4,23.8,85.0,2855.0,151.0,17.6
+datsun 200-sx,1978,Japan,4,23.9,97.0,2405.0,119.0,14.9
+audi 5000,1978,Europe,5,20.3,103.0,2830.0,131.0,15.9
+volvo 264gl,1978,Europe,6,17.0,125.0,3140.0,163.0,13.6
+saab 99gle,1978,Europe,4,21.6,115.0,2795.0,121.0,15.7
+peugeot 604sl,1978,Europe,6,16.2,133.0,3410.0,163.0,15.8
+volkswagen scirocco,1978,Europe,4,31.5,71.0,1990.0,89.0,14.9
+honda accord lx,1978,Japan,4,29.5,68.0,2135.0,98.0,16.6
+pontiac lemans v6,1979,United States,6,21.5,115.0,3245.0,231.0,15.4
+mercury zephyr 6,1979,United States,6,19.8,85.0,2990.0,200.0,18.2
+ford fairmont 4,1979,United States,4,22.3,88.0,2890.0,140.0,17.3
+amc concord dl 6,1979,United States,6,20.2,90.0,3265.0,232.0,18.2
+dodge aspen 6,1979,United States,6,20.6,110.0,3360.0,225.0,16.6
+chevrolet caprice classic,1979,United States,8,17.0,130.0,3840.0,305.0,15.4
+ford ltd landau,1979,United States,8,17.6,129.0,3725.0,302.0,13.4
+mercury grand marquis,1979,United States,8,16.5,138.0,3955.0,351.0,13.2
+dodge st. regis,1979,United States,8,18.2,135.0,3830.0,318.0,15.2
+buick estate wagon (sw),1979,United States,8,16.9,155.0,4360.0,350.0,14.9
+ford country squire (sw),1979,United States,8,15.5,142.0,4054.0,351.0,14.3
+chevrolet malibu classic (sw),1979,United States,8,19.2,125.0,3605.0,267.0,15.0
+chrysler lebaron town @ country (sw),1979,United States,8,18.5,150.0,3940.0,360.0,13.0
+vw rabbit custom,1979,Europe,4,31.9,71.0,1925.0,89.0,14.0
+maxda glc deluxe,1979,Japan,4,34.1,65.0,1975.0,86.0,15.2
+dodge colt hatchback custom,1979,United States,4,35.7,80.0,1915.0,98.0,14.4
+amc spirit dl,1979,United States,4,27.4,80.0,2670.0,121.0,15.0
+mercedes benz 300d,1979,Europe,5,25.4,77.0,3530.0,183.0,20.1
+cadillac eldorado,1979,United States,8,23.0,125.0,3900.0,350.0,17.4
+peugeot 504,1979,Europe,4,27.2,71.0,3190.0,141.0,24.8
+oldsmobile cutlass salon brougham,1979,United States,8,23.9,90.0,3420.0,260.0,22.2
+plymouth horizon,1979,United States,4,34.2,70.0,2200.0,105.0,13.2
+plymouth horizon tc3,1979,United States,4,34.5,70.0,2150.0,105.0,14.9
+datsun 210,1979,Japan,4,31.8,65.0,2020.0,85.0,19.2
+fiat strada custom,1979,Europe,4,37.3,69.0,2130.0,91.0,14.7
+buick skylark limited,1979,United States,4,28.4,90.0,2670.0,151.0,16.0
+chevrolet citation,1979,United States,6,28.8,115.0,2595.0,173.0,11.3
+oldsmobile omega brougham,1979,United States,6,26.8,115.0,2700.0,173.0,12.9
+pontiac phoenix,1979,United States,4,33.5,90.0,2556.0,151.0,13.2
+vw rabbit,1980,Europe,4,41.5,76.0,2144.0,98.0,14.7
+toyota corolla tercel,1980,Japan,4,38.1,60.0,1968.0,89.0,18.8
+chevrolet chevette,1980,United States,4,32.1,70.0,2120.0,98.0,15.5
+datsun 310,1980,Japan,4,37.2,65.0,2019.0,86.0,16.4
+chevrolet citation,1980,United States,4,28.0,90.0,2678.0,151.0,16.5
+ford fairmont,1980,United States,4,26.4,88.0,2870.0,140.0,18.1
+amc concord,1980,United States,4,24.3,90.0,3003.0,151.0,20.1
+dodge aspen,1980,United States,6,19.1,90.0,3381.0,225.0,18.7
+audi 4000,1980,Europe,4,34.3,78.0,2188.0,97.0,15.8
+toyota corona liftback,1980,Japan,4,29.8,90.0,2711.0,134.0,15.5
+mazda 626,1980,Japan,4,31.3,75.0,2542.0,120.0,17.5
+datsun 510 hatchback,1980,Japan,4,37.0,92.0,2434.0,119.0,15.0
+toyota corolla,1980,Japan,4,32.2,75.0,2265.0,108.0,15.2
+mazda glc,1980,Japan,4,46.6,65.0,2110.0,86.0,17.9
+dodge colt,1980,United States,4,27.9,105.0,2800.0,156.0,14.4
+datsun 210,1980,Japan,4,40.8,65.0,2110.0,85.0,19.2
+vw rabbit c (diesel),1980,Europe,4,44.3,48.0,2085.0,90.0,21.7
+vw dasher (diesel),1980,Europe,4,43.4,48.0,2335.0,90.0,23.7
+audi 5000s (diesel),1980,Europe,5,36.4,67.0,2950.0,121.0,19.9
+mercedes-benz 240d,1980,Europe,4,30.0,67.0,3250.0,146.0,21.8
+honda civic 1500 gl,1980,Japan,4,44.6,67.0,1850.0,91.0,13.8
+renault lecar deluxe,1980,Europe,4,40.9,,1835.0,85.0,17.3
+subaru dl,1980,Japan,4,33.8,67.0,2145.0,97.0,18.0
+vokswagen rabbit,1980,Europe,4,29.8,62.0,1845.0,89.0,15.3
+datsun 280-zx,1980,Japan,6,32.7,132.0,2910.0,168.0,11.4
+mazda rx-7 gs,1980,Japan,3,23.7,100.0,2420.0,70.0,12.5
+triumph tr7 coupe,1980,Europe,4,35.0,88.0,2500.0,122.0,15.1
+ford mustang cobra,1980,United States,4,23.6,,2905.0,140.0,14.3
+honda accord,1980,Japan,4,32.4,72.0,2290.0,107.0,17.0
+plymouth reliant,1981,United States,4,27.2,84.0,2490.0,135.0,15.7
+buick skylark,1981,United States,4,26.6,84.0,2635.0,151.0,16.4
+dodge aries wagon (sw),1981,United States,4,25.8,92.0,2620.0,156.0,14.4
+chevrolet citation,1981,United States,6,23.5,110.0,2725.0,173.0,12.6
+plymouth reliant,1981,United States,4,30.0,84.0,2385.0,135.0,12.9
+toyota starlet,1981,Japan,4,39.1,58.0,1755.0,79.0,16.9
+plymouth champ,1981,United States,4,39.0,64.0,1875.0,86.0,16.4
+honda civic 1300,1981,Japan,4,35.1,60.0,1760.0,81.0,16.1
+subaru,1981,Japan,4,32.3,67.0,2065.0,97.0,17.8
+datsun 210 mpg,1981,Japan,4,37.0,65.0,1975.0,85.0,19.4
+toyota tercel,1981,Japan,4,37.7,62.0,2050.0,89.0,17.3
+mazda glc 4,1981,Japan,4,34.1,68.0,1985.0,91.0,16.0
+plymouth horizon 4,1981,United States,4,34.7,63.0,2215.0,105.0,14.9
+ford escort 4w,1981,United States,4,34.4,65.0,2045.0,98.0,16.2
+ford escort 2h,1981,United States,4,29.9,65.0,2380.0,98.0,20.7
+volkswagen jetta,1981,Europe,4,33.0,74.0,2190.0,105.0,14.2
+renault 18i,1981,Europe,4,34.5,,2320.0,100.0,15.8
+honda prelude,1981,Japan,4,33.7,75.0,2210.0,107.0,14.4
+toyota corolla,1981,Japan,4,32.4,75.0,2350.0,108.0,16.8
+datsun 200sx,1981,Japan,4,32.9,100.0,2615.0,119.0,14.8
+mazda 626,1981,Japan,4,31.6,74.0,2635.0,120.0,18.3
+peugeot 505s turbo diesel,1981,Europe,4,28.1,80.0,3230.0,141.0,20.4
+volvo diesel,1981,Europe,6,30.7,76.0,3160.0,145.0,19.6
+toyota cressida,1981,Japan,6,25.4,116.0,2900.0,168.0,12.6
+datsun 810 maxima,1981,Japan,6,24.2,120.0,2930.0,146.0,13.8
+buick century,1981,United States,6,22.4,110.0,3415.0,231.0,15.8
+oldsmobile cutlass ls,1981,United States,8,26.6,105.0,3725.0,350.0,19.0
+ford granada gl,1981,United States,6,20.2,88.0,3060.0,200.0,17.1
+chrysler lebaron salon,1981,United States,6,17.6,85.0,3465.0,225.0,16.6
+chevrolet cavalier,1982,United States,4,28.0,88.0,2605.0,112.0,19.6
+chevrolet cavalier wagon,1982,United States,4,27.0,88.0,2640.0,112.0,18.6
+chevrolet cavalier 2-door,1982,United States,4,34.0,88.0,2395.0,112.0,18.0
+pontiac j2000 se hatchback,1982,United States,4,31.0,85.0,2575.0,112.0,16.2
+dodge aries se,1982,United States,4,29.0,84.0,2525.0,135.0,16.0
+pontiac phoenix,1982,United States,4,27.0,90.0,2735.0,151.0,18.0
+ford fairmont futura,1982,United States,4,24.0,92.0,2865.0,140.0,16.4
+amc concord dl,1982,United States,4,23.0,,3035.0,151.0,20.5
+volkswagen rabbit l,1982,Europe,4,36.0,74.0,1980.0,105.0,15.3
+mazda glc custom l,1982,Japan,4,37.0,68.0,2025.0,91.0,18.2
+mazda glc custom,1982,Japan,4,31.0,68.0,1970.0,91.0,17.6
+plymouth horizon miser,1982,United States,4,38.0,63.0,2125.0,105.0,14.7
+mercury lynx l,1982,United States,4,36.0,70.0,2125.0,98.0,17.3
+nissan stanza xe,1982,Japan,4,36.0,88.0,2160.0,120.0,14.5
+honda accord,1982,Japan,4,36.0,75.0,2205.0,107.0,14.5
+toyota corolla,1982,Japan,4,34.0,70.0,2245.0,108.0,16.9
+honda civic,1982,Japan,4,38.0,67.0,1965.0,91.0,15.0
+honda civic (auto),1982,Japan,4,32.0,67.0,1965.0,91.0,15.7
+datsun 310 gx,1982,Japan,4,38.0,67.0,1995.0,91.0,16.2
+buick century limited,1982,United States,6,25.0,110.0,2945.0,181.0,16.4
+oldsmobile cutlass ciera (diesel),1982,United States,6,38.0,85.0,3015.0,262.0,17.0
+chrysler lebaron medallion,1982,United States,4,26.0,92.0,2585.0,156.0,14.5
+ford granada l,1982,United States,6,22.0,112.0,2835.0,232.0,14.7
+toyota celica gt,1982,Japan,4,32.0,96.0,2665.0,144.0,13.9
+dodge charger 2.2,1982,United States,4,36.0,84.0,2370.0,135.0,13.0
+chevrolet camaro,1982,United States,4,27.0,90.0,2950.0,151.0,17.3
+ford mustang gl,1982,United States,4,27.0,86.0,2790.0,140.0,15.6
+vw pickup,1982,Europe,4,44.0,52.0,2130.0,97.0,24.6
+dodge rampage,1982,United States,4,32.0,84.0,2295.0,135.0,11.6
+ford ranger,1982,United States,4,28.0,79.0,2625.0,120.0,18.6
+chevy s-10,1982,United States,4,31.0,82.0,2720.0,119.0,19.4
